@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervave",
+        "uuid": 733566,
+        "checksum": "f3i8b"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
